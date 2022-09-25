@@ -1,16 +1,10 @@
-# testapp
+# Word Pair
 
 A new Flutter project.
 
-## Getting Started
+![alt Main Page](https://github.com/jerichogragasin/testapp/blob/[branch]/image.jpg?raw=true)
+![alt Saved/Favorites](https://github.com/jerichogragasin/testapp/blob/[branch]/image.jpg?raw=true)
 
-This project is a starting point for a Flutter application.
+## Credits to Traversy Media
+Channel : https://www.youtube.com/watch?v=1gDhl4leEzA&t=1448s
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
